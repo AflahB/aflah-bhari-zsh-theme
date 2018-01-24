@@ -1,4 +1,4 @@
-#+TITLE: AFLAH BHARI'S ZSH THEME
+#+TITLE: Aflah Bhari's ZSH Theme
 A modified version of the robbyrussel theme.
 
 * Installation 
