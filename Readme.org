@@ -1,0 +1,13 @@
+#+TITLE: AFLAH BHARI'S ZSH THEME
+A modified version of the robbyrussel theme.
+
+* Installation 
+Step 1: Clone this repo:
+#+BEGIN_SRC
+    git clone https://github.com/aflahb/aflahb-zsh-theme
+#+END_SRC
+
+Step 2: Create a symbolic link to oh-my-zsh's theme folder:
+#+BEGIN_SRC
+    ln -s aflah-bhari-zsh-theme/aflahbhari.zsh-theme ~/.oh-my-zsh/themes/aflahbhari.zsh-theme
+#+END_SRC
