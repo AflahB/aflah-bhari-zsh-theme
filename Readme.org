@@ -9,7 +9,7 @@ A modified version of the robbyrussel theme.
 
 *Step 2:* Create a symbolic link to oh-my-zsh's theme folder:
 #+BEGIN_SRC
-    ln -s aflah-bhari-zsh-theme/aflahbhari.zsh-theme ~/.oh-my-zsh/themes/aflahbhari.zsh-theme
+    ln -s aflah-bhari-zsh-theme/aflahbhari.zsh-theme /home/$USER/.oh-my-zsh/themes/aflahbhari.zsh-theme
 #+END_SRC
 
 *Step 3:* Modify your .oh-my-zsh config to use the new theme.
