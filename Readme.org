@@ -1,6 +1,9 @@
 #+TITLE: Aflah Bhari's ZSH Theme
 A modified version of the robbyrussel theme.
 
+#+CAPTION: Screenshot of the theme.
+[[./screenshot.PNG]]
+
 * Installation 
 *Step 1:* Clone this repo:
 #+BEGIN_SRC
