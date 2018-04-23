@@ -7,7 +7,7 @@ A modified version of the robbyrussel theme.
 * Installation 
 *Step 1:* Clone this repo:
 #+BEGIN_SRC
-    git clone https://github.com/aflahb/aflahb-zsh-theme
+    git clone https://github.com/AflahB/aflah-bhari-zsh-theme.git 
 #+END_SRC
 
 *Step 2:* Create a symbolic link to oh-my-zsh's theme folder:
